@@ -58,8 +58,6 @@ $(document).ready(function() {
                     $("#section3").removeClass("animate");
                 }, 2000)
             }
-
-
         },
 
         //横向滚动之前(index 从1开始)
